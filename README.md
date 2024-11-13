@@ -36,3 +36,84 @@ Wishing everyone goodness and peace 🖐️ </br>
 <h3 align="center">
   🛠 Languages | Frameworks | Tools 🛠
 </h3>
+
+
+
+
+
+ <table align="center">
+  <tr height="130">
+    <td align="center" width="100"><img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="50"/>&nbsp;</br>
+    TypeScript
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50"/>&nbsp;</br>
+      JavaScript
+    </td>
+    <td align="center" width="100">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" title="React" alt="React" width="50"/>&nbsp;</br>
+      React
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" title="Redux" alt="Redux " width="50"/>&nbsp;</br>
+      RTK
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="50"/>&nbsp;</br>
+      CSS3
+    </td>
+<td align="center" width="100">
+    <img src="https://camo.githubusercontent.com/e41ce10504c2e55c314230f99e140a8bbe8bba6d054188ae5919c2dac8dbf01b/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f532f536173732d69636f6e2d766563746f722d30342e737667" title="SASS" alt="SASS" width="50"/>&nbsp;</br>
+      SASS
+    </td>
+    <td align="center" width="100">
+    <img src="https://www.pngfind.com/pngs/m/683-6835747_css-modules-logo-hd-png-download.png" title="CSS Modules" alt="CSS Modules" width="50"/>&nbsp;</br>
+      CSS Modules
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="50"/>&nbsp;</br>
+      HTML5
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="50"/>&nbsp;</br>
+      MUI
+    </td>
+  <tr height="130">
+      <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="50"/>&nbsp;</br>
+      C#
+    </td>
+      <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50"/>&nbsp;</br>
+      C++
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="GIT" alt="GIT" width="50"/>&nbsp;</br>
+      GIT
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="Github" alt="Github" width="50"/>&nbsp;</br>
+      Github
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/gitlab/gitlab-original.svg" title="Gitlab" alt="Gitlab" width="50"/>&nbsp;</br>
+      Gitlab
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" title="Figma" alt="Figma" width="50"/>&nbsp;</br>
+      Figma
+    </td>
+    <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="50"/>&nbsp;</br>
+      Trello
+    </td>
+      <td align="center" width="100">
+      <img src="https://camo.githubusercontent.com/b24b1e3ca056dfeba88c675fe30e1f5b3ed60313842016220ea6e7c91ba00f52/68747470733a2f2f6272616e646570732e636f6d2f69636f6e2d646f776e6c6f61642f4e2f4e706d2d69636f6e2d766563746f722d30352e737667" title="NPM" alt="NPM" width="50"/>&nbsp;</br>
+      NPM
+    </td>
+       <td align="center" width="100">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/antdesign/antdesign-original.svg" title="Ant Design" alt="Ant Design" width="50"/>&nbsp;</br>
+      Ant Design
+    </td>
+  </tr>
+</table>
