@@ -15,6 +15,7 @@ I believe the most important aspects of frontend development are the efficiency 
       </br>
       You can check out my latest pet project - <strong>myTodoList</strong>, here:</br>
 - <a href="https://github.com/Banifacy7/myTodoList" >Code 🧑🏻‍💻</a></br>
+- <a href="https://banifacy7.github.io/myTodoList" >Website 🌏</a></br>
       </br>
       In my free time, I prefer active recreation and regularly engage in outdoor sports, which helps keep my mental abilities and productivity at a high level 📈</br>
 Wishing everyone goodness and peace 🖐️ </br>
